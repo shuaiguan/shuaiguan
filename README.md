@@ -1,13 +1,5 @@
 <!-- shuaiguan/shuaiguan — this README renders on my GitHub profile. -->
 
-<div align="center">
-  <a href="https://shuaiguan.io">
-    <img src="assets/banner.svg" alt="Shuai Guan — Co-Founder & CEO of Thunderbit" width="100%">
-  </a>
-</div>
-
-<br>
-
 I'm **Shuai Guan** — co-founder & CEO of **[Thunderbit](https://thunderbit.com)**, an AI web scraper that turns any website, PDF, or image into clean, structured data in a couple of clicks. After close to a decade in tech and SaaS, I now spend my time turning capable AI models into practical, **no-code tools** — so anyone, not just engineers, can use the web's data at scale. Michigan engineer, based in the **San Francisco Bay Area**, photographer on the side.
 
 ---
